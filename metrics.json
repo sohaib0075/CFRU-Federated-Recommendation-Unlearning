@@ -1,0 +1,1 @@
+{"utility": {"baseline": {"hr": 0.385, "ndcg": 0.18855100892217735}, "unlearned": {"hr": 0.48, "ndcg": 0.27123548006859877}, "retrained": {"hr": 0.405, "ndcg": 0.2118342036354192}}, "privacy_mia": {"baseline": 0.6842105263157895, "unlearned": 0.7894736842105263, "retrained": 0.7368421052631579}, "efficiency": {"cfru_time_seconds": 0.45, "retrain_time_seconds": 125.0}}
