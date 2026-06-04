@@ -4,7 +4,7 @@ This project implements a CFRU-inspired federated recommendation unlearning pipe
 
 ## Overview
 
-Federated recommender systems preserve user privacy by keeping user data on local devices. However, when a user requests deletion, their influence may still remain embedded in the global model through historical gradients.
+Federated recommender systems preserve user privacy by keeping user data on local devices. However, when a user requests deletion, their influence may still remain embedded in global model through historical gradients.
 
 This project explores Certified Federated Recommendation Unlearning (CFRU), which aims to remove user influence without full retraining.
 
